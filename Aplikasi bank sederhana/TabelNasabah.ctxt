@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TabelNasabah()
+comment1.params=nBaru
+comment1.target=void\ tambah(Nasabah)
+comment2.params=noRek\ jmlTarikTunai
+comment2.target=void\ tarikTunai(java.lang.String,\ int)
+comment3.params=noRekAsal\ noRekTujuan\ jmlTransfer
+comment3.target=void\ transfer(java.lang.String,\ java.lang.String,\ int)
+comment4.params=noRek
+comment4.target=int\ cari(java.lang.String)
+numComments=5
